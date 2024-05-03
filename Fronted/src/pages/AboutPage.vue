@@ -6,7 +6,7 @@
       <br/>
       
       <h1 class="big-title"><b>About</b></h1><p>
-      Hello! We are glad you came to our site! We are Shalev Maimon and Moria Cohen, We hope you enjoy in our website!!!
+      Hello! I glad you came to our site! hope you enjoy in our website!!!
       </p><br/>
       <br/>
       <h4 class="title">
@@ -27,23 +27,8 @@
       </p>
       <br/>
 
-
-      <br/>
-      <h4 class="title">links for our previous projects:</h4>
-      <a style="font-size: 22px;">Chicken Invaders game:</a>
-      <br/>
-      <a href="https://web-development-environments-2023.github.io/assignment2-211700844_206636805/" style="font-size: 22px ;">Chicken Invaders game</a>
-      <br/><br/>
-      <a style="font-size: 22px;">Website for old people:</a>
-      <br/>
-      <a href="https://web-development-environments-2023.github.io/211700844/" style="font-size: 22px;">moria- Yoram Gaon</a>
-      <br/>
-      <a href="https://web-development-environments-2023.github.io/206636805/" style="font-size: 22px;">shalev- Eliyao Peretz</a>
-      <br/><br/>
-
-
       <h4 class="title">Contact us</h4>
-      <p><b>maisha@post.bgu.ac.il</b> & <b>moriaco@post.bgu.ac.il</b></p><br/><br/>
+      <p><b>maimon.9999@gmail.com</b> </p><br/><br/>
   </b>
   </div>
 </template>
