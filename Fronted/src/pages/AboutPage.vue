@@ -22,8 +22,6 @@
         Registered users enjoy additional functionalities such as creating their own recipes, saving recipes as favorites, and accessing personal and family recipes.
         <br/>
         Each recipe on the site is labeled with dietary information, such as vegan, vegetarian, and gluten-free indications.
-        <br/>
-        We hope that you enjoy!!!
       </p>
       <br/>
 
